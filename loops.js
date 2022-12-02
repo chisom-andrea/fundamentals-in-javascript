@@ -41,8 +41,8 @@ do {
 } while (c < 5);
 
 //if
-const age = 20;
-if(age > 20 ) {
+const age1 = 20;
+if(age1 > 20 ) {
     console.log('you are older');
 }
 const names = ['shawn', 'mendez', 'selena', 'gomez','tom', 'holland'];
