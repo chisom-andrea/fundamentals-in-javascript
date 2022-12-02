@@ -111,8 +111,6 @@ if(!user){
     console.log('log in to contiue');
 }
 
-console.log('something');
-
 
 
 
